@@ -13,4 +13,7 @@ for row in ws.rows:
         continue
     if row[2].value != None:
         print(row)
+        print(row)
+
+
 
